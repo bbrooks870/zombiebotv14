@@ -1,0 +1,5 @@
+request
+requests
+colorama
+bs4
+tldextract
